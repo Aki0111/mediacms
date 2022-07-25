@@ -74,7 +74,7 @@ const PAGES = {
   },
   index: { id: 'home', title: 'Home', component: 'HomePage' },
   search: { id: 'search', title: 'Search results', component: 'SearchPage' },
-  latest: { id: 'latest', title: 'Recent uploads', component: 'LatestMediaPage' },
+  latest: { id: 'latest', title: '最近上传', component: 'LatestMediaPage' },
   featured: { id: 'featured', title: 'Featured', component: 'FeaturedMediaPage' },
   recommended: { id: 'recommended', title: 'Recommended', component: 'RecommendedMediaPage' },
   members: { id: 'members', title: 'Members', component: 'MembersPage' },

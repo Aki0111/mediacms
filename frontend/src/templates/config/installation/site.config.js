@@ -22,7 +22,7 @@ module.exports = {
   },
   pages: {
     latest: {
-      title: 'Recent uploads',
+      title: '最近上传',
     },
     featured: {
       title: 'Featured',

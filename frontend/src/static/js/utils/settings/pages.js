@@ -4,7 +4,7 @@ export function init(settings) {
   PAGES = {
     latest: {
       enabled: false,
-      title: 'Recent uploads',
+      title: '最近上传',
     },
     featured: {
       enabled: false,
